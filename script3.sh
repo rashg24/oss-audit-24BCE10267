@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 3: Disk and Permission Auditor
-# Author: Drishti | Course: Open Source Software
+# Author: Rashi | Course: Open Source Software
 # Loops through key system directories and reports permissions and sizes
 
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
