@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 4: Log File Analyzer
-# Author: Drishti | Course: Open Source Software
+# Author: Rashi | Course: Open Source Software
 # Usage: ./script4.sh <logfile> <keyword>
 
 LOGFILE=$1
